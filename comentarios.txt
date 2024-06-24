@@ -1,0 +1,4 @@
+1) Para compilar de TS para JS: 
+
+    tsc interface.ts
+    node interface.js
